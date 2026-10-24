@@ -1,0 +1,19 @@
+OLD CHANNEL — FINAL QA REPORT
+Format: illustrated historical documentary, approved still images with camera motion.
+PASS — Source narration duration: 3433.090612 s.
+PASS — Final video duration: 3433.120000 s; difference 0.029388 s.
+PASS — Scenes: 268; 85828 frames; complete timeline with no gaps.
+PASS — Generated still illustrations: 37. Generated physical-action video clips: 0, per approved illustration approach.
+PASS — Regenerated illustrations: 0. Rejected renders: 0 in final artifact.
+PASS — Resolution: 1920x1080; constant 25 fps; H.264 video; AAC audio at 44100 Hz.
+PASS — Original MASTER_VOICE.mp3 retained unchanged. No narration rewriting, rearrangement, time stretching, silence trimming, gain changes, music, or added dialogue. Delivery audio encoded to AAC for MP4 compatibility.
+PASS — Every rendered scene frame count verified, every boundary contiguous, final image extends through original narration end.
+PASS — Complete exported file decoded without corruption; all frames scanned, no black placeholders detected.
+PASS — No missing media; all referenced illustrations exist locally.
+PASS — Script/audio exact normalized word match: 97.77%. Scene times follow observed ASR word timestamps; mismatched word starts interpolated between matched audio anchors.
+PASS — Audio/video synchronization and unchanged audio level checked at beginning, quarter, midpoint, three-quarter and end; correlations and RMS ratios in export-verification.json.
+PASS — All 37 source illustrations visually reviewed for overt modern objects, period clothing, anatomy, unwanted writing and watermarks. Modern, gas and electric views assigned to explicitly corresponding narrative passages.
+PASS — Character/object continuity within each illustration: only camera framing changes; figures and objects are not physically animated. Recurring clear portrait of Nikolai reuses the same illustration.
+PASS — Transitions are illustrative changes of view or topic; no claim of continuous generated physical action across independent paintings.
+LIMITATION — Historical plausibility is a visual production review, not scholarly certification. The approved format uses 35 of the 37 generated illustrations across the long narration, with camera framing changes and dissolves. It does not portray fully animated human actions.
+LIMITATION — Automatic full-frame decoding/black detection covers the whole artifact. Visual review covers every source illustration and every scene's boundary frames, not a human real-time viewing of all 57 minutes.

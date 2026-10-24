@@ -1,0 +1,10 @@
+.venv/
+.cache/
+__pycache__/
+rendered-scenes/
+boundary-review/
+*.mp4
+MASTER_VOICE.mp3
+*.log
+rendered-concat.txt
+voice-concat.txt

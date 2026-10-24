@@ -1,0 +1,8 @@
+{
+  "fps": 25,
+  "audio_duration": 3433.090612,
+  "total_frames": 85828,
+  "alignment_exact_word_coverage": 0.9776773486715968,
+  "script_word_count": 7302,
+  "asr_word_count": 7274
+}

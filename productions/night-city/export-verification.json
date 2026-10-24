@@ -1,0 +1,43 @@
+{
+  "source_duration": 3433.090612,
+  "final_duration": 3433.12,
+  "size_bytes": 648044168,
+  "width": 1920,
+  "height": 1080,
+  "fps": 25,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "sample_rate": "44100",
+  "scenes": 268,
+  "generated_illustrations": 37,
+  "generated_motion_clips": 0,
+  "frame_count": 85828,
+  "audio_comparisons": [
+    {
+      "time": 0,
+      "correlation": 0.999975860118866,
+      "rms_ratio": 0.9989801645278931
+    },
+    {
+      "time": 858.272653,
+      "correlation": 0.9976052641868591,
+      "rms_ratio": 1.0013419389724731
+    },
+    {
+      "time": 1716.545306,
+      "correlation": 0.999968945980072,
+      "rms_ratio": 0.9986412525177002
+    },
+    {
+      "time": 2574.817959,
+      "correlation": 0.9999723434448242,
+      "rms_ratio": 0.9987911581993103
+    },
+    {
+      "time": 3423.090612,
+      "correlation": 0.9999688863754272,
+      "rms_ratio": 0.9989750385284424
+    }
+  ],
+  "sha256": "4279049356fba9bf7d14e58c9edc46fbe53c76c86477ff11b0c1d856c1f04c3c"
+}

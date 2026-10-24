@@ -1,0 +1,187 @@
+[
+  {
+    "id": "opening",
+    "description": "Nikolai carrying a lantern through a provincial Russian winter street circa 1835.",
+    "path": "assets/opening.png"
+  },
+  {
+    "id": "modern",
+    "description": "Contemporary Russian city at night, electric street lighting and illuminated shop windows, ordinary pedestrians on pavement, calm late evening, wide street view. This is explicitly a present-day comparison, so historically modern objects are correct. No readable text.",
+    "path": "assets/modern.png"
+  },
+  {
+    "id": "candle_room",
+    "description": "Interior of a modest provincial Russian clerk's rented room in 1835. One tallow candle on a wooden table, goose quill, unmarked handwritten ledger, simple chair, tiled stove, small frost-covered wooden window. Nikolai age 35 with short brown hair, clean shaven, plain linen shirt and brown wool waistcoat, seen from side concentrating on writing, no eye contact. Very low candlelight but all objects readable.",
+    "path": "assets/candle_room.png"
+  },
+  {
+    "id": "tallow",
+    "description": "Close view of a soot-darkened tallow candle in a plain iron candlestick, wick trimming scissors on a wooden table, a clerk's natural right hand resting near scissors, folded linen, animal-fat candle material. Russia circa 1835. Object study, flame realistic and modest, candle flame the only local light.",
+    "path": "assets/tallow.png"
+  },
+  {
+    "id": "beeswax",
+    "description": "Wealthier Russian merchant home's parlour circa 1835, polished wooden furniture and several slender beeswax candles in brass candlesticks, a neatly dressed woman wearing a high-necked long-sleeve 1830s gown quietly reading a book, gentle warm light, no excessive palace luxury.",
+    "path": "assets/beeswax.png"
+  },
+  {
+    "id": "oil_lamp",
+    "description": "A historically plausible early nineteenth century simple glass reservoir oil lamp with flat wick and small burner, no electric components, on a modest Russian kitchen table with small ceramic oil jug and folded cloth; a woman's hand carefully tending it. Mid-1830s. Soft warm firelight and cool twilight window.",
+    "path": "assets/oil_lamp.png"
+  },
+  {
+    "id": "workshop",
+    "description": "Provincial Russian cobbler workshop around 1835 after sunset. An older craftsman wearing linen shirt, wool waistcoat and leather apron bends over leather boots, awl and wooden shoe lasts on workbench, a single oil lamp, quiet effort, natural hands placed plausibly on work.",
+    "path": "assets/workshop.png"
+  },
+  {
+    "id": "lamplighter",
+    "description": "Russian provincial town in 1835 at dusk. A lamplighter in coarse grey wool coat, simple cap and boots stands securely beside a wooden ladder, carefully opening an iron-and-glass oil street lantern attached to a timber post; a tin oil vessel rests on ground. Snow and timber homes, calm blue evening, clear human anatomy.",
+    "path": "assets/lamplighter.png"
+  },
+  {
+    "id": "dark_street",
+    "description": "A genuinely poorly lit Russian provincial lane circa 1835, uneven muddy snow, timber fences and modest houses, one distant oil lantern and dim amber windows, a single distant pedestrian cautiously watching the ground. Moonlit, clearly readable detail, no dense urban electric-like lamp network.",
+    "path": "assets/dark_street.png"
+  },
+  {
+    "id": "hand_lantern",
+    "description": "Close low-angle detail of a small closed tin-and-glass hand lantern with candle flame, held naturally by a gloved right hand beside a dark brown wool greatcoat, period leather boot on rutted snowy street, Russia 1835; safe closed lantern, authentic aged metal.",
+    "path": "assets/hand_lantern.png"
+  },
+  {
+    "id": "market",
+    "description": "Russian provincial market closing at dusk circa 1835, traders lower wooden shutters, one merchant packs cloth sacks and wooden crates, woman in simple wool shawl carries woven basket, emptying stalls and church square, horse cart in distance, dim natural twilight, no printed signs.",
+    "path": "assets/market.png"
+  },
+  {
+    "id": "tavern",
+    "description": "Modest Russian provincial tavern circa 1835, wooden benches, long tables, plain ceramic bowls with soup, bread and clay pitchers, a few laborers in wool coats quietly eating, innkeeper serving beside masonry stove, dim candles and oil lamps, no drunken caricature, no modern glassware.",
+    "path": "assets/tavern.png"
+  },
+  {
+    "id": "poor_family",
+    "description": "Poor Russian urban family circa 1835 in small timber room, mother repairing wool garment near a weak candle, father in plain linen quietly repairing a leather strap, child sleeping on bench near tiled stove; natural weary posture, simple clay bowls and wooden furniture, respectful calm depiction.",
+    "path": "assets/poor_family.png"
+  },
+  {
+    "id": "firewatch",
+    "description": "Russian provincial night watchman circa 1835 in thick coarse wool overcoat and cap, holding a simple wooden watchman's rattle, walking past timber houses toward a distant wooden fire watchtower, winter night with one weak oil lamp, vigilant quiet posture.",
+    "path": "assets/firewatch.png"
+  },
+  {
+    "id": "fire_buckets",
+    "description": "A small courtyard house fire in provincial Russia circa 1835, restrained documentary reconstruction without graphic injuries. Several adults in plain period clothing pass wooden and leather buckets of water in a coherent bucket line, distant orange glow from a wooden shed, sparse smoke, night watchman raising alarm, no modern firefighting equipment.",
+    "path": "assets/fire_buckets.png"
+  },
+  {
+    "id": "winter",
+    "description": "Provincial Russian city circa 1835 in deep winter, blue snow under moonlight, a horse-drawn sleigh with coherent harness making its way through uneven street, coachman in thick sheepskin coat, sparse oil lights, frost on eaves and warm low windows, serene wide shot.",
+    "path": "assets/winter.png"
+  },
+  {
+    "id": "summer",
+    "description": "Provincial Russian city circa 1835 in short summer night, pale northern twilight over timber houses, street with dirt surface and small gardens, adults in linen and wool walking home, long soft shadows, no snow and no modern infrastructure.",
+    "path": "assets/summer.png"
+  },
+  {
+    "id": "rain",
+    "description": "Russian provincial street circa 1835 in cold autumn rain, puddles and muddy ruts reflecting a very small oil lantern, man in heavy dark wool coat cautiously stepping past a timber fence, wet wheel tracks, horse cart receding, readable muted blue and amber palette.",
+    "path": "assets/rain.png"
+  },
+  {
+    "id": "doctor",
+    "description": "Russian provincial physician making a night house call circa 1835. Physician in plain dark frock coat with modest leather doctor's satchel enters a candlelit room; an adult attendant holds a closed hand lantern, patient resting under wool blanket, no visible modern instruments, calm practical care.",
+    "path": "assets/doctor.png"
+  },
+  {
+    "id": "coach",
+    "description": "Russian provincial posting inn courtyard circa 1835, horse-drawn carriage stopped at dusk, coachman checking a leather harness while stable boy carries a closed lantern, water trough, timber stable and modest masonry inn; coherent horse anatomy, no modern luggage or signs.",
+    "path": "assets/coach.png"
+  },
+  {
+    "id": "festival",
+    "description": "Russian provincial winter holiday gathering circa 1835 in a merchant house, a few families in historically plausible wool coats and long dresses, extra candles illuminate supper table with bread and ceramic dishes, quiet sociable atmosphere, warm realistic faces, no Christmas electric lights.",
+    "path": "assets/festival.png"
+  },
+  {
+    "id": "church",
+    "description": "Interior of a modest Russian Orthodox church circa 1835, brass candle stand with slender beeswax candles, period icon panels softly visible, woman in wool headscarf lighting one candle with taper, reverent quiet atmosphere, readable warm light and muted shadows, no text.",
+    "path": "assets/church.png"
+  },
+  {
+    "id": "gas",
+    "description": "Russian urban street circa 1870, a gas lamplighter tends a gas streetlamp with historically appropriate iron post and glass enclosure, nineteenth-century masonry façades, horse carriage and pedestrians in 1860s-1870s clothing, warmer brighter light than early oil lamps, no electric wires, no cars.",
+    "path": "assets/gas.png"
+  },
+  {
+    "id": "electric",
+    "description": "Russian city circa 1900 during early electrification, modest street of masonry buildings with period electric arc streetlights, a horse-drawn cab and a few pedestrians in 1890s-1900 clothing; show the early electric transition accurately, no modern cars or neon, calm evening.",
+    "path": "assets/electric.png"
+  },
+  {
+    "id": "sleep",
+    "description": "Quiet Russian clerk's room circa 1835 after work, candle nearly spent safely in iron holder on table, folded brown wool coat on wooden chair, closed unmarked ledger and quill, occupant asleep under wool blanket on simple bed at far side of room, moonlight at small window, peaceful final-night atmosphere.",
+    "path": "assets/sleep.png"
+  },
+  {
+    "id": "bakery",
+    "description": "Russian provincial bakery circa 1835 before dawn, baker wearing plain linen shirt and apron works with wooden peel beside a masonry bread oven, round rye loaves, sacks of flour and wooden trough, warm firelight, small oil lamp, no modern machinery.",
+    "path": "assets/bakery.png"
+  },
+  {
+    "id": "theatre",
+    "description": "Small Russian provincial theatre circa 1835 viewed from side of auditorium, rows of wooden seats and a modest stage lit with period candle footlights, actor standing in historical dress, adults in early nineteenth-century clothes seated quietly, no electric spotlight or modern rigging.",
+    "path": "assets/theatre.png"
+  },
+  {
+    "id": "clock",
+    "description": "Close historical still life, Russian clerk's room circa 1835, plain early nineteenth century mechanical pocket watch open beside iron candlestick and folded papers on dark wood, ornate hands but NO legible letters or numerals needed, candle casts warm readable light, no modern watch.",
+    "path": "assets/clock.png"
+  },
+  {
+    "id": "candlemaker",
+    "description": "Russian provincial candle maker circa 1835 inside a simple workshop, adult man in linen and wool apron carefully dipping suspended cotton wicks into a metal pot of tallow, rows of plain candles hanging from wooden racks, natural anatomically plausible hands, fire-safe small hearth, no machinery.",
+    "path": "assets/candlemaker.png"
+  },
+  {
+    "id": "gate",
+    "description": "Russian provincial courtyard gate at night circa 1835, thick plank wooden gate partly shut, an older house porter in plain sheepskin coat uses a simple iron latch while carrying a closed tin lantern, quiet timber courtyard and snow, no modern locks or intercoms.",
+    "path": "assets/gate.png"
+  },
+  {
+    "id": "moon_roofs",
+    "description": "Wide tranquil panorama over a provincial Russian town circa 1835 near midnight, irregular timber rooftops and two modest Orthodox churches, scattered tiny amber windows, thin chimney smoke and pale winter moon, muted blue snow, no modern skyline, naturally dark but readable.",
+    "path": "assets/moon_roofs.png"
+  },
+  {
+    "id": "servants",
+    "description": "Russian provincial merchant household kitchen circa 1835 late evening, adult maid in simple linen blouse, wool skirt and headscarf carefully extinguishing excess candles with a metal snuffer; another worker covers food in ceramic dishes, wooden table and masonry stove, humble practical work.",
+    "path": "assets/servants.png"
+  },
+  {
+    "id": "school",
+    "description": "A Russian urban child about ten in a simple linen shirt learning to read beside mother at wooden table in 1835, one tallow candle and plain sewn book without readable text, mother's finger pointing naturally at page, modest timber room and wool textiles, warm quiet concentration.",
+    "path": "assets/school.png"
+  },
+  {
+    "id": "bathhouse",
+    "description": "Empty interior of a modest provincial Russian bathhouse circa 1835 at closing time, timber plank benches and walls, wooden buckets and ladles, faint steam, safe small oil lantern behind glass near entrance, masonry stove with heated stones, wet wooden floor reflecting tiny flame. No people, no nudity, no modern plumbing, calm historically plausible documentary reconstruction.",
+    "path": "assets/bathhouse.png"
+  },
+  {
+    "id": "kitchen",
+    "description": "Russian provincial household kitchen circa 1835, a woman in a simple linen blouse, wool skirt and headscarf setting a plain ceramic bowl of cabbage soup and rye bread on a wooden table, masonry Russian stove glowing softly behind her, small safe oil lamp, clay pots and wooden utensils, warm practical everyday historical life, natural hands, no modern metal cookware or packaging.",
+    "path": "assets/kitchen.png"
+  },
+  {
+    "id": "bridge",
+    "description": "A small timber bridge over a quiet canal in a provincial Russian city circa 1835 at moonlit winter dusk, icy wooden boards and uneven snow, one sparse handworked oil lantern beside bridge entrance, clerk in dark brown wool greatcoat and period hat cautiously crossing seen from back, modest wooden homes, plausible railing and natural human scale, no electric infrastructure.",
+    "path": "assets/bridge.png"
+  },
+  {
+    "id": "morning",
+    "description": "Provincial Russian city circa 1835 at dawn after a long winter night, a lamplighter in plain grey wool coat beside a low iron-and-glass oil street lantern now extinguished, cleaning cloth and tin oil vessel on a small wooden platform, pale blue morning sky and first soft amber sunlight on timber roofs, quiet empty street, historically plausible scene without modern objects.",
+    "path": "assets/morning.png"
+  }
+]
