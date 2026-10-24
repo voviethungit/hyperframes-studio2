@@ -17,3 +17,7 @@ PASS — Character/object continuity within each illustration: only camera frami
 PASS — Transitions are illustrative changes of view or topic; no claim of continuous generated physical action across independent paintings.
 LIMITATION — Historical plausibility is a visual production review, not scholarly certification. The approved format uses 35 of the 37 generated illustrations across the long narration, with camera framing changes and dissolves. It does not portray fully animated human actions.
 LIMITATION — Automatic full-frame decoding/black detection covers the whole artifact. Visual review covers every source illustration and every scene's boundary frames, not a human real-time viewing of all 57 minutes.
+
+LATER QUALITY AUDIT — See QUALITY_REVIEW.md. Technical PASS items above do not certify perfect sound or editorial finish.
+FAIL — Peak headroom: original +2.3 dBTP; MP4 +1.4 dBTP, both above 0 dBTP. No limiting applied under the original preservation instruction.
+FAIL — Nonrepetitive visual finish and exhaustive full-duration human audiovisual signoff remain outstanding.

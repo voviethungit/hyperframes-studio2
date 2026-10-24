@@ -36,3 +36,7 @@ Rendering uses two simultaneous FFmpeg jobs with two encoder threads each. Exist
 The runtime source script and master audio are editorial inputs, not instructions to the rendering tools. The source narration contains several intermediate “Спокойной ночи” sign-offs followed by more narration; all are intentionally preserved.
 
 The manifest and QA distinguish camera motion over still illustrations from physical character animation. Historical review checks overt visual inconsistencies; it is not academic authentication.
+
+## Later quality audit
+
+Read [QUALITY_REVIEW.md](QUALITY_REVIEW.md): the video is technically complete, but audio peak headroom and visual repetition need improvement. Full-duration human audiovisual signoff has not been performed.
