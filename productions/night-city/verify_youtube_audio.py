@@ -4,7 +4,10 @@ from pathlib import Path
 import numpy as np
 
 R=Path(__file__).resolve().parent
-new=R/'OLD_CHANNEL_YOUTUBE_READY.mp4';old=R/'OLD_CHANNEL_FINAL_VIDEO.mp4';master=R/'MASTER_VOICE.mp3'
+def media(name):
+    local=R/name
+    return local if local.is_file() else R.parents[1]/'videos'/name
+new=media('OLD_CHANNEL_YOUTUBE_READY.mp4');old=media('OLD_CHANNEL_FINAL_VIDEO.mp4');master=R/'MASTER_VOICE.mp3'
 def probe(p):return json.loads(subprocess.check_output(['ffprobe','-v','error','-show_streams','-show_format','-of','json',str(p)]))
 def video_hash(p):return subprocess.check_output(['ffmpeg','-v','error','-i',str(p),'-map','0:v:0','-c:v','copy','-f','hash','-hash','sha256','-'],text=True).strip()
 def pcm(p,t):return np.frombuffer(subprocess.check_output(['ffmpeg','-v','error','-ss',str(t),'-i',str(p),'-t','8','-ac','1','-ar','16000','-f','f32le','-']),dtype=np.float32)
@@ -14,6 +17,9 @@ assert int(v['nb_frames'])==85828 and v['r_frame_rate']=='25/1'
 assert abs(float(p['format']['duration'])-3433.090612)<.1
 h=video_hash(new);assert h==video_hash(old)
 log=R/'youtube-ready-loudness.log'
+if not log.is_file() or log.stat().st_mtime<new.stat().st_mtime:
+    with log.open('w') as out:
+        subprocess.run(['ffmpeg','-hide_banner','-nostdin','-i',str(new),'-vn','-af','ebur128=peak=true','-f','null','-'],stdout=out,stderr=out,check=True)
 assert log.stat().st_mtime>=new.stat().st_mtime
 text=log.read_text();summary=text.rsplit('Summary:',1)[-1]
 peak=float(re.search(r'Peak:\s*([-\d.]+)',summary).group(1));assert peak<=-1.0
