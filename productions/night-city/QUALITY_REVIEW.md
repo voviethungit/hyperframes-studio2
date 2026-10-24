@@ -26,3 +26,7 @@ FAIL — Nonrepetitive visual finish: only 35 illustrations across 57 minutes.
 FAIL — Exhaustive human real-time audiovisual signoff: not performed. Automated full-file checking and source/boundary-image review do not replace watching and listening to the entire film.
 
 Recommended improvement order: review and, with authorization, control audio peaks on a separate delivery copy; add more topic-specific illustrations; then complete a continuous human listening and semantic/continuity review. Preserve the original master.
+
+## Later authorized audio correction
+
+Peak headroom is resolved for **OLD_CHANNEL_YOUTUBE_READY.mp4**: −1.9 dBTP after AAC encoding, with integrated loudness still −20.4 LUFS. Original measurements above apply to OLD_CHANNEL_FINAL_VIDEO.mp4 and MASTER_VOICE.mp3. See YOUTUBE_AUDIO_QA.md. The picture repetition and full-duration human listening/semantic-signoff limitations remain.

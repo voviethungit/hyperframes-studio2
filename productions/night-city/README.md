@@ -40,3 +40,7 @@ The manifest and QA distinguish camera motion over still illustrations from phys
 ## Later quality audit
 
 Read [QUALITY_REVIEW.md](QUALITY_REVIEW.md): the video is technically complete, but audio peak headroom and visual repetition need improvement. Full-duration human audiovisual signoff has not been performed.
+
+## Approved peak-limited delivery
+
+The recommended upload copy is [OLD_CHANNEL_YOUTUBE_READY.mp4](../../videos/OLD_CHANNEL_YOUTUBE_READY.mp4), measured at −1.9 dBTP and −20.4 LUFS. Read [YOUTUBE_AUDIO_QA.md](YOUTUBE_AUDIO_QA.md). Reproduce with `python make_youtube_audio.py`; measure its delivered AAC audio using `ffmpeg -i OLD_CHANNEL_YOUTUBE_READY.mp4 -vn -af ebur128=peak=true -f null -` and compare against the original master. The original export and source master are retained.

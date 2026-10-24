@@ -1,0 +1,38 @@
+{
+  "file": "OLD_CHANNEL_YOUTUBE_READY.mp4",
+  "duration": 3433.12,
+  "size_bytes": 647791543,
+  "sha256": "10429dc90ca2443bf5a6ac6ec885f8b80be3e355de2d1d6c0df41ad337c3cf9c",
+  "video_stream_identical": true,
+  "video_stream_hash": "SHA256=517dbfa3a01499694c772d7241987d59c66c88cf2d78ee35f5167453cf05ff39",
+  "frames": 85828,
+  "resolution": "1920x1080",
+  "fps": 25,
+  "audio_codec": "aac",
+  "sample_rate": "44100",
+  "true_peak_dbtp": -1.9,
+  "integrated_lufs": -20.4,
+  "source_master_unchanged": true,
+  "audio_sync_comparisons": [
+    {
+      "time": 0,
+      "correlation": 0.999975323677063
+    },
+    {
+      "time": 858.272653,
+      "correlation": 0.997604250907898
+    },
+    {
+      "time": 1716.545306,
+      "correlation": 0.9999672174453735
+    },
+    {
+      "time": 2574.817959,
+      "correlation": 0.9999718070030212
+    },
+    {
+      "time": 3423.090612,
+      "correlation": 0.9999712109565735
+    }
+  ]
+}
