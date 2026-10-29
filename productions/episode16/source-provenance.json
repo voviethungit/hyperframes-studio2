@@ -1,0 +1,41 @@
+{
+  "ordered_inputs": [
+    {
+      "filename": "voice_part_00.mp3",
+      "sha256": "22cea4ea0d014e943f56cc3e6de666f650b016f6fc147cbdccea9fff14211e1e",
+      "duration": "600.006531",
+      "size": "9600561"
+    },
+    {
+      "filename": "voice_part_01.mp3",
+      "sha256": "9675d2a01e8e48691bb34a81cabd389627030d7af47dd920628e09a642895353",
+      "duration": "600.006531",
+      "size": "9600560"
+    },
+    {
+      "filename": "voice_part_02.mp3",
+      "sha256": "e8f312fefa0648c251edea57159d2a7b2aaadf1187a9e46bfddf98a5a8af7c89",
+      "duration": "600.006531",
+      "size": "9600561"
+    },
+    {
+      "filename": "voice_part_03.mp3",
+      "sha256": "bf1381799f83003095f21fc8bf14327944d4645ba6c02625a743604dbb5aec20",
+      "duration": "599.980408",
+      "size": "9600142"
+    },
+    {
+      "filename": "voice_part_04.mp3",
+      "sha256": "1aae54e5aac94970f07f76a5291a49d71a1b067dcd160578b5c055e98543aee1",
+      "duration": "600.006531",
+      "size": "9600560"
+    },
+    {
+      "filename": "voice_part_05.mp3",
+      "sha256": "94ac5cec4f7cf97929eab0730b315f75dc06a78e2ab49cba636ab39176690722",
+      "duration": "548.545306",
+      "size": "8777183"
+    }
+  ],
+  "source_script_sha256": "7e370c271d0bc3d06ce7b2b5ab3ff67c02e0cdfbb3dafa357868fe1ed92ff629"
+}

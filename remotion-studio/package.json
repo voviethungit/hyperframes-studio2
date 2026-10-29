@@ -1,0 +1,36 @@
+{
+  "name": "hyperframes-studio2-remotion",
+  "version": "1.0.0",
+  "description": "Remotion workspace for historical video production",
+  "scripts": {
+    "dev": "remotion studio src/index.ts --port=3000 --no-open",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "render": "remotion render src/index.ts MyComp out/remotion-check.mp4 --browser-executable=/usr/bin/chromium --concurrency=2",
+    "compositions": "remotion compositions src/index.ts --browser-executable=/usr/bin/chromium",
+    "render:episode16": "remotion render src/index.ts OldChannel16 out/OLD_CHANNEL_16_FINAL.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --pixel-format=yuv420p --audio-codec=aac"
+  },
+  "repository": {},
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@remotion/cli": "4.0.539",
+    "@remotion/media": "4.0.539",
+    "@remotion/transitions": "4.0.539",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.539"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.539",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "10.12.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  },
+  "private": true
+}

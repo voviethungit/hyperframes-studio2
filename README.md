@@ -1,5 +1,20 @@
 # HyperFrames Studio 2 — historical video production
 
+## Episode16 — Как люди стирали одежду без стиральных машин 200 лет назад
+
+[Download OLD_CHANNEL_16_FINAL.mp4](https://github.com/voviethungit/hyperframes-studio2/raw/refs/heads/main/videos/OLD_CHANNEL_16_FINAL.mp4)
+
+59:08.57 ·1920×1080 · constant30fps · H.264/yuv420p/AAC ·331.9MB.123 accepted historical scene illustrations, complete original Russian narration. Full decode, every-frame timestamp cadence, decoded audio length and scene contact review passed.
+
+- [Scene manifest](productions/episode16/OLD_CHANNEL_16_SCENE_MANIFEST.csv)
+- [QA report and limits](productions/episode16/OLD_CHANNEL_16_QA_REPORT.txt)
+- [Artwork, prompts, original sources and production scripts](productions/episode16/)
+- [Editable Remotion project](remotion-studio/), composition `OldChannel16`; run `npm run render:episode16`.
+
+Generated source images are approximately1672px wide and scaled to1080p. ASR timing is approximate; exhaustive manual listening and expert historical certification are not claimed. Download large media with Git LFS.
+
+## Previous episode
+
 [Download the complete historical video (MP4)](https://github.com/voviethungit/hyperframes-studio2/raw/refs/heads/main/videos/OLD_CHANNEL_YOUTUBE_READY.mp4)
 
 57:13 · 1920×1080 · 25 fps · H.264/AAC. Russian narration preserved in full. Approved format: realistic historical still illustrations with slow camera movement and gentle dissolves.

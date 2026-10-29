@@ -1,0 +1,77 @@
+OLD CHANNEL 16 — QA
+PASS — all_assets_and_scene_frames
+PASS — continuous_coverage
+PASS — format_and_complete_duration
+PASS — every presentation timestamp advances1/30sec — every_video_frame_cadence
+PASS — full_decode_and_black_frames
+PASS — all_image_visual_reviews
+PASS — complete source decoded samples retained within AAC padding limits — decoded_audio_length
+PASS — beginning, all five chunk joins, and ending; no gain filter — decoded_audio_sample_integrity
+PASS — native end frames match held frames pixel-for-pixel for four camera types — static_frame_cache_equivalence
+PASS — rendered_scene_framing_review
+PASS — all source compressed audio packets retained in order — lossless_mp3_assembly
+PASS — ASR normalized token match96.73%, no contiguous unmatched script spans of six or more words; not exhaustive listening — script_audio_correspondence
+NOT VERIFIED — audible_boundary_review
+NOT VERIFIED — historical_expert_certification
+NOT VERIFIED — ASR anchored script alignment, not forced alignment — word_perfect_forced_alignment
+{
+  "checks": {
+    "all_assets_and_scene_frames": "PASS",
+    "continuous_coverage": "PASS",
+    "format_and_complete_duration": "PASS",
+    "every_video_frame_cadence": "PASS \u2014 every presentation timestamp advances1/30sec",
+    "full_decode_and_black_frames": "PASS",
+    "all_image_visual_reviews": "PASS",
+    "decoded_audio_length": "PASS \u2014 complete source decoded samples retained within AAC padding limits",
+    "decoded_audio_sample_integrity": "PASS \u2014 beginning, all five chunk joins, and ending; no gain filter",
+    "static_frame_cache_equivalence": "PASS \u2014 native end frames match held frames pixel-for-pixel for four camera types",
+    "rendered_scene_framing_review": "PASS",
+    "lossless_mp3_assembly": "PASS \u2014 all source compressed audio packets retained in order",
+    "script_audio_correspondence": "PASS \u2014 ASR normalized token match96.73%, no contiguous unmatched script spans of six or more words; not exhaustive listening",
+    "audible_boundary_review": "NOT VERIFIED",
+    "historical_expert_certification": "NOT VERIFIED",
+    "word_perfect_forced_alignment": "NOT VERIFIED \u2014 ASR anchored script alignment, not forced alignment"
+  },
+  "source_duration": 3548.551837,
+  "final_duration": 3548.566667,
+  "frames": 106457,
+  "fps": 30,
+  "scenes": 123,
+  "images": 123,
+  "sha256": "70cdddad4381d02ec6356a665f2a961699d2a2c1ae2e29046988fcf9dbd9fb7e",
+  "size_bytes": 331858020
+}
+Original master retained; narration is encoded continuously to AAC once with no gain, normalization, speed, pitch or pause filters. Native Remotion motion/transition frames are rendered to PNG. Once camera and opacity become mathematically constant, identical frames are cached and repeated at CFR30 before a single continuous audio mux. No physical human animation is claimed. Source images are around1672 pixels wide; higher native resolution was requested but not returned.
+
+ADDITIONAL MEASURED DELIVERY FACTS
+{
+  "source_duration": 3548.551837,
+  "final_duration": 3548.566667,
+  "frames": 106457,
+  "fps": 30,
+  "scenes": 123,
+  "images": 123,
+  "sha256": "70cdddad4381d02ec6356a665f2a961699d2a2c1ae2e29046988fcf9dbd9fb7e",
+  "size_bytes": 331858020,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "width": 1920,
+  "height": 1080,
+  "pixel_format": "yuv420p",
+  "sample_rate": 44100,
+  "audio_channels": 1,
+  "unique_scene_images": 123,
+  "source_chunks": 6,
+  "delivery_loudness_lufs": -21.7,
+  "delivery_true_peak_dbtp": -1.2,
+  "audio_sample_counts": {
+    "source_decoded_samples": 156490607,
+    "export_decoded_samples": 156490752,
+    "sample_rate": 44100,
+    "difference_samples": 145,
+    "status": "PASS",
+    "note": "AAC may have less than one codec frame of trailing padding; source duration remains authoritative"
+  }
+}
+Visual review scope: all source scene contacts and all123 decoded MP4 scene midpoint contacts reviewed; representative corrections and beginning, middle, final frame inspected full size. Full106457-frame decode completed with no errors and no detected black intervals. No claim that every second was watched/listened to in realtime. ASR timing is anchored/interpolated, not certified forced alignment.
+Six numbered inputs00–05 discovered; none missing. No added SFX or music. Rejected variants remain in the working production assets. Native generated scene images are approximately1672px wide, scaled/cropped for1080p.

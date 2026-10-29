@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "scope": "Decoded PCM comparisons at beginning, joins, and end; AAC is lossy, not bit identical",
+  "checks": [
+    {
+      "time_seconds": 0,
+      "samples": 176400,
+      "correlation": 0.9999803502344556,
+      "rms_difference_db": -0.00792368408292532
+    },
+    {
+      "time_seconds": 598,
+      "samples": 176400,
+      "correlation": 0.9999108258645989,
+      "rms_difference_db": -0.007981203496456146
+    },
+    {
+      "time_seconds": 1198,
+      "samples": 176400,
+      "correlation": 0.9955760279427448,
+      "rms_difference_db": 0.03232725337147713
+    },
+    {
+      "time_seconds": 1798,
+      "samples": 176400,
+      "correlation": 0.9998896703385206,
+      "rms_difference_db": -0.01055027823895216
+    },
+    {
+      "time_seconds": 2398,
+      "samples": 176400,
+      "correlation": 0.9999476590982634,
+      "rms_difference_db": -0.008036131970584393
+    },
+    {
+      "time_seconds": 2998,
+      "samples": 176400,
+      "correlation": 0.9999516607327631,
+      "rms_difference_db": -0.010031945072114468
+    },
+    {
+      "time_seconds": 3543,
+      "samples": 176400,
+      "correlation": 0.9999666362716148,
+      "rms_difference_db": -0.011874759569764137
+    }
+  ]
+}

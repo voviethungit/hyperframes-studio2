@@ -1,0 +1,8 @@
+{
+  "source_decoded_samples": 156490607,
+  "export_decoded_samples": 156490752,
+  "sample_rate": 44100,
+  "difference_samples": 145,
+  "status": "PASS",
+  "note": "AAC may have less than one codec frame of trailing padding; source duration remains authoritative"
+}

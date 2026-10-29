@@ -1,0 +1,26 @@
+[
+  {
+    "scene": 1,
+    "frame": 2156,
+    "motion": "static",
+    "identical_pixels": true
+  },
+  {
+    "scene": 2,
+    "frame": 3042,
+    "motion": "pull",
+    "identical_pixels": true
+  },
+  {
+    "scene": 3,
+    "frame": 4038,
+    "motion": "pan",
+    "identical_pixels": true
+  },
+  {
+    "scene": 4,
+    "frame": 5173,
+    "motion": "push",
+    "identical_pixels": true
+  }
+]

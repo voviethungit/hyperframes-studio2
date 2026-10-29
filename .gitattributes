@@ -1,3 +1,7 @@
 videos/OLD_CHANNEL_FINAL_VIDEO.mp4 filter=lfs diff=lfs merge=lfs -text
 productions/night-city/MASTER_VOICE.mp3 filter=lfs diff=lfs merge=lfs -text
 videos/OLD_CHANNEL_YOUTUBE_READY.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/OLD_CHANNEL_16_FINAL.mp4 filter=lfs diff=lfs merge=lfs -text
+productions/episode16/MASTER_VOICE.mp3 filter=lfs diff=lfs merge=lfs -text
+productions/episode16/assets/source-audio/*.mp3 filter=lfs diff=lfs merge=lfs -text
+remotion-studio/public/episode16/MASTER_VOICE.mp3 filter=lfs diff=lfs merge=lfs -text

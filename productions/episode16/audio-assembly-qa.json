@@ -1,0 +1,15 @@
+{
+  "source_files": 6,
+  "source_packets": 135843,
+  "master_packets": 135843,
+  "compressed_packet_sequence_identical": true,
+  "duration": 3548.551837,
+  "boundary_list_seconds": [
+    600.006531,
+    1200.013062,
+    1800.019593,
+    2400.000001,
+    3000.006532
+  ],
+  "audible_boundary_review": "NOT VERIFIED"
+}
