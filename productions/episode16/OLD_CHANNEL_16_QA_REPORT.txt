@@ -75,3 +75,5 @@ ADDITIONAL MEASURED DELIVERY FACTS
 }
 Visual review scope: all source scene contacts and all123 decoded MP4 scene midpoint contacts reviewed; representative corrections and beginning, middle, final frame inspected full size. Full106457-frame decode completed with no errors and no detected black intervals. No claim that every second was watched/listened to in realtime. ASR timing is anchored/interpolated, not certified forced alignment.
 Six numbered inputs00–05 discovered; none missing. No added SFX or music. Rejected variants remain in the working production assets. Native generated scene images are approximately1672px wide, scaled/cropped for1080p.
+
+PASS — GitHub main push confirmed. Video fetched afresh from remote Git LFS into separate storage; downloaded331858020-byte file SHA256 matches the locally verified MP4. See remote-delivery-verification.json.

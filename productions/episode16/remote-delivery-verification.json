@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "repository": "voviethungit/hyperframes-studio2",
+  "verified_main_commit": "028f66225a3184c45723451c63f72688f9d05c01",
+  "path": "videos/OLD_CHANNEL_16_FINAL.mp4",
+  "method": "Fresh Git LFS fetch into separate empty storage, then SHA256 and size comparison",
+  "sha256": "70cdddad4381d02ec6356a665f2a961699d2a2c1ae2e29046988fcf9dbd9fb7e",
+  "size_bytes": 331858020
+}
